@@ -290,7 +290,7 @@ main {
     .menu-branding .portrait {
       background: url("../img/profile-photo.jpg");
       width: 200px;
-      height: 150px; }
+      height: 170px; }
   .about-info {
     grid-template-areas: 'bioimage' 'bio' 'job1' 'job2' 'job3';
     grid-template-columns: 1fr; }
